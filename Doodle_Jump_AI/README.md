@@ -34,8 +34,8 @@ The AI picks actions based on a trained Q-table (`q_table.pkl`), and can be enha
 ---
 
 ## 🎥 Demo
+![model_train](https://github.com/user-attachments/assets/c6376d4a-63a3-48c7-b017-c2af78b812c6)
+![gameplay](https://github.com/user-attachments/assets/f0829faf-5aa1-4eb5-9bc6-4d5c50f6d9f4)
 
-![Model_train Demo](demo/model_train.gif)
-![Gameplay_Demo](demo/model_train.gif)
 
 
